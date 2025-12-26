@@ -1,3 +1,4 @@
+![CI](https://github.com/LucasNguyen2k/stock-price-pipeline/actions/workflows/python-ci.yml/badge.svg)
 # Stock Price Data Pipeline
 
 ## Overview
@@ -18,3 +19,4 @@ normalizes and validates the data, and exports it for downstream usage.
 | price | float | Current price |
 | currency | string | Currency code |
 | timestamp | string | ISO-8601 UTC time |
+
